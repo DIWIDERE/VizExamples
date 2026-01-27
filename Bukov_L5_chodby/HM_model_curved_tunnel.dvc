@@ -1,0 +1,6 @@
+outs:
+- md5: 03719e212f028732c6fce4d26d230e4b.dir
+  size: 10526582550
+  nfiles: 636
+  hash: md5
+  path: HM_model_curved_tunnel

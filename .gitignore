@@ -1,0 +1,7 @@
+.dvc/cache/
+.dvc/tmp/
+.dvc/config.local
+venv
+dvc_secret_config.sh
+
+/HM_model_curved_tunnel
