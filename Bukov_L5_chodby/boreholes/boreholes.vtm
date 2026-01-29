@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <vtkMultiBlockDataSet>
+    <Block name="L5-49DL" index="0">
+      <DataSet index="0" name="axis" file="boreholes/boreholes_0.vtp"/>
+      <DataSet index="1" name="chamber_0" file="boreholes/boreholes_1.vtp"/>
+      <DataSet index="2" name="chamber_1" file="boreholes/boreholes_2.vtp"/>
+      <DataSet index="3" name="chamber_2" file="boreholes/boreholes_3.vtp"/>
+    </Block>
+    <Block name="L5-50UL" index="1">
+      <DataSet index="0" name="axis" file="boreholes/boreholes_4.vtp"/>
+      <DataSet index="1" name="chamber_0" file="boreholes/boreholes_5.vtp"/>
+      <DataSet index="2" name="chamber_1" file="boreholes/boreholes_6.vtp"/>
+      <DataSet index="3" name="chamber_2" file="boreholes/boreholes_7.vtp"/>
+    </Block>
+    <Block name="L5-22DR" index="2">
+      <DataSet index="0" name="axis" file="boreholes/boreholes_8.vtp"/>
+      <DataSet index="1" name="chamber_0" file="boreholes/boreholes_9.vtp"/>
+      <DataSet index="2" name="chamber_1" file="boreholes/boreholes_10.vtp"/>
+      <DataSet index="3" name="chamber_2" file="boreholes/boreholes_11.vtp"/>
+    </Block>
+    <Block name="L5-23UR" index="3">
+      <DataSet index="0" name="axis" file="boreholes/boreholes_12.vtp"/>
+      <DataSet index="1" name="chamber_0" file="boreholes/boreholes_13.vtp"/>
+      <DataSet index="2" name="chamber_1" file="boreholes/boreholes_14.vtp"/>
+      <DataSet index="3" name="chamber_2" file="boreholes/boreholes_15.vtp"/>
+    </Block>
+    <Block name="L5-24DR" index="4">
+      <DataSet index="0" name="axis" file="boreholes/boreholes_16.vtp"/>
+      <DataSet index="1" name="chamber_0" file="boreholes/boreholes_17.vtp"/>
+      <DataSet index="2" name="chamber_1" file="boreholes/boreholes_18.vtp"/>
+      <DataSet index="3" name="chamber_2" file="boreholes/boreholes_19.vtp"/>
+    </Block>
+    <Block name="L5-26R" index="5">
+      <DataSet index="0" name="axis" file="boreholes/boreholes_20.vtp"/>
+      <DataSet index="1" name="chamber_0" file="boreholes/boreholes_21.vtp"/>
+      <DataSet index="2" name="chamber_1" file="boreholes/boreholes_22.vtp"/>
+      <DataSet index="3" name="chamber_2" file="boreholes/boreholes_23.vtp"/>
+    </Block>
+    <Block name="L5-37R" index="6">
+      <DataSet index="0" name="axis" file="boreholes/boreholes_24.vtp"/>
+      <DataSet index="1" name="chamber_0" file="boreholes/boreholes_25.vtp"/>
+      <DataSet index="2" name="chamber_1" file="boreholes/boreholes_26.vtp"/>
+      <DataSet index="3" name="chamber_2" file="boreholes/boreholes_27.vtp"/>
+    </Block>
+    <Block name="L5-37UR" index="7">
+      <DataSet index="0" name="axis" file="boreholes/boreholes_28.vtp"/>
+      <DataSet index="1" name="chamber_0" file="boreholes/boreholes_29.vtp"/>
+      <DataSet index="2" name="chamber_1" file="boreholes/boreholes_30.vtp"/>
+      <DataSet index="3" name="chamber_2" file="boreholes/boreholes_31.vtp"/>
+    </Block>
+  </vtkMultiBlockDataSet>
+  <FieldData>
+    <Array type="String" Name="Labels" NumberOfTuples="8" format="binary">
+      AQAAAACAAAA+AAAAKwAAAA==eJzzMdU1sXTxYfAx1TU1CAXTRkYuQWDaOBRCm0D5ZmDK2BxKAWUBnkUM/Q==
+    </Array>
+    <DataArray type="Float64" Name="LabelCoords" NumberOfComponents="3" NumberOfTuples="8" format="binary" RangeMin="6.763203035144529" RangeMax="16.577376914553465">
+      AQAAAACAAADAAAAAywAAAA==eJwBwAA///hxQWXVGxbAdCA6hW3nDUAyaorQwWH+v2auaupqIijArnXx99RoEEDT/ClzDdEVQOfZhh0XJSRAyJduJ0/F978W8eHJR7MCwMK/8tlNwRpAIDPhnRIICsDEB6tOJ20VQGLwTR4AsBZAzMM3KCwMCcBm1IUB0Q7/v8ztrSi8WCtAvbo5aSlbH8A1rj/eLo33P3qzJZNMUjBAoovwVXolBMAajCbm3A73P8Bok6ITESZAYrf2J4kyEsDukt9ujGwUQD7jWNo=
+      <InformationKey name="L2_NORM_RANGE" location="vtkDataArray" length="2">
+        <Value index="0">
+          6.7632030351
+        </Value>
+        <Value index="1">
+          16.577376915
+        </Value>
+      </InformationKey>
+    </DataArray>
+  </FieldData>
+</VTKFile>
